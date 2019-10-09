@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textName">25sp</dimen>
+    <dimen name="textAir">20sp</dimen>
+    <dimen name="textRank">26sp</dimen>
+    <dimen name="textTime">20sp</dimen>
+    <dimen name="nameItem">13sp</dimen>
+    <dimen name="airItem">9.5sp</dimen>
+    <dimen name="rankItem">13sp</dimen>
+    <dimen name="timeItem">10sp</dimen>
+</resources>
